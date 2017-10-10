@@ -42,7 +42,11 @@ figcaption,
 figure,
 footer,
 header,
-main,
+main{
+width: calc(100% - 200px);
+min-width:500px;
+float:left;
+}
 menu,
 nav,
 section,
