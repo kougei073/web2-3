@@ -41,7 +41,16 @@ details,
 figcaption,
 figure,
 footer,
-header,
+
+header{
+background-color:#ffa500;
+position: fixed;
+left:0;
+top:0;
+width:100%;
+z-index: +1;
+}
+
 main{
 width: calc(100% - 200px);
 min-width:500px;
