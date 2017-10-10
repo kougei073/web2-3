@@ -26,17 +26,8 @@ body
 {
     margin: 0;
 }
-
 article,
-
-aside{
-width:200;
-float:right;
-position: relative;
-top: 20px;
-right: 10px;
-}
-
+aside,
 details,
 figcaption,
 figure,
